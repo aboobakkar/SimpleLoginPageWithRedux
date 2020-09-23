@@ -1,0 +1,6 @@
+module Pods_Appiness_AppinessTests {
+  umbrella header "Pods-Appiness-AppinessTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

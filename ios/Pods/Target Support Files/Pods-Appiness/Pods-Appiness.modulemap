@@ -1,0 +1,6 @@
+module Pods_Appiness {
+  umbrella header "Pods-Appiness-umbrella.h"
+
+  export *
+  module * { export * }
+}
